@@ -1,2 +1,2 @@
 # WWG
-# useful files for work
+Useful files for work
